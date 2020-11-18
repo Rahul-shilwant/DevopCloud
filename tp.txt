@@ -3,5 +3,4 @@ java
 advance java
 cpp
 data structure
-dot net
 
